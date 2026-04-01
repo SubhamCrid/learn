@@ -1,0 +1,5 @@
+- [x] Classes
+- [x] Initialisers
+- [x] Self
+- [x] Methods
+- [x] Dunder Method / Magic Method
