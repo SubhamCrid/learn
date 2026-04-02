@@ -1,3 +1,3 @@
-- [ ] What are python descriptors ?
-- [ ] How to implement descriptors ?
-- [ ] Descriptors' order in the lookup chain
+- [x] What are python descriptors ?
+- [x] How to implement descriptors ?
+- [x] Descriptors' order in the lookup chain
